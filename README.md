@@ -1,6 +1,6 @@
 this is an app that i used "Harsha Kakkeri" designs from "dribbble.com" 
 =========================================================================================================
-#### this is Harsha kakkeri dribbble link > https://dribbble.com/shots/2895762-Fashion-Shopping-App
+### this is Harsha kakkeri dribbble link > https://dribbble.com/shots/2895762-Fashion-Shopping-App
 
 I made it with love and React-Native > this is a demo from it 
 ==========================================================================================================
