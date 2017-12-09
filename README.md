@@ -1,4 +1,4 @@
-this is an app that i used "Harsha Kakkeri" designs from "dribbble.com" 
+this is an app that i used "Harsha Kakkeri" designs
 =========================================================================================================
 ### this is Harsha kakkeri dribbble link > https://dribbble.com/shots/2895762-Fashion-Shopping-App
 ________________________________________________________________________________________________________
