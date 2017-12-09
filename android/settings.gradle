@@ -1,0 +1,3 @@
+rootProject.name = 'fashion_app_layouts'
+
+include ':app'
